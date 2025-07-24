@@ -9,7 +9,7 @@ Welcome to the **Flip The Coin** responsive web project, built as part of the [d
 
 ## 🚀 Live Demo
 
-🔗 [View Live Website](https://rohan-rccodes.github.io/flip-the-coin/)  
+🔗 [View Live Website](https://rohan-rccodes.github.io/Coin-flip/) 
 🛠 Built by: **Rohan Chauhan**  
 🎓 BCA Graduate | Web Developer | UI/UX Enthusiast
 
