@@ -1,8 +1,6 @@
 # 🎯 DevChallenges.io - Flip The Coin
 
-📸 Preview:
 
-![Preview](images/preview.png)
 ## 👋 Welcome!
 
 Welcome to the **Flip The Coin** responsive web project, built as part of the [devChallenges.io](https://devchallenges.io/) coding challenges. This project helps improve core web development skills through HTML, CSS, and JavaScript.
@@ -16,6 +14,9 @@ Welcome to the **Flip The Coin** responsive web project, built as part of the [d
 🎓 BCA Graduate | Web Developer | UI/UX Enthusiast
 
 ---
+📸 Preview:
+
+![Preview](images/preview.png)
 
 ## 🧠 Project Overview
 
