@@ -1,6 +1,7 @@
 # 🎯 DevChallenges.io - Flip The Coin
 
-![Screenshot](./images/preview.png) <!-- Replace with actual screenshot filename in your /images folder -->
+## 🧠 Project Overview
+(./images/preview.png) <!-- Replace with actual screenshot filename in your /images folder -->
 
 ## 👋 Welcome!
 
