@@ -27,6 +27,16 @@
     <p id="result-text">Heads</p>
   </div>
 
+  <audio id="flip-sound" src="images/coin-flip.mp3" preload="auto"></audio>
+
   <script src="script.js"></script>
+  <script>
+    document.getElementById("flip-btn").addEventListener("click", () => {
+      const sound = document.getElementById("flip-sound");
+      sound.currentTime = 0; // rewind if playing
+      sound.play();
+    });
+  </script>
+
 </body>
 </html>
