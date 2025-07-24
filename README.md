@@ -1,8 +1,8 @@
 # 🎯 DevChallenges.io - Flip The Coin
 
-## 🧠 Project Overview
-(./images/preview.png) <!-- Replace with actual screenshot filename in your /images folder -->
+📸 Preview:
 
+![Preview](images/preview.png)
 ## 👋 Welcome!
 
 Welcome to the **Flip The Coin** responsive web project, built as part of the [devChallenges.io](https://devchallenges.io/) coding challenges. This project helps improve core web development skills through HTML, CSS, and JavaScript.
