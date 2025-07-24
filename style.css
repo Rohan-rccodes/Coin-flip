@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #1c1e26;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 0px #35383f;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #35383f;
+  margin-bottom: 40px;
+}
+
+.coin-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 30px;
+}
+
+#coin {
+  width: 100%;
+  height: auto;
+  transition: transform 0.6s ease;
+}
+
+.shadow {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  width: 100px;
+  transform: translateX(-50%);
+  opacity: 0.5;
+}
+
+button#flip-btn {
+  padding: 12px 30px;
+  font-size: 16px;
+  background-color: #3a78db;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px 0px #23649b;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  transform: translateY(0);
+}
+
+button#flip-btn:hover {
+  background-color: #1d73fd;
+}
+
+/* 👇 Button press effect */
+button#flip-btn:active {
+  transform: translateY(4px);
+  box-shadow: 0px 2px 0px 0px #1f4b7e;
+}
+
+#result-text {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
