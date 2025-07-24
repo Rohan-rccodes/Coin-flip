@@ -1,7 +1,10 @@
 // Select elements from DOM
 const coin = document.getElementById("coin");
+
 const flipBtn = document.getElementById("flip-btn");
+
 const resultText = document.getElementById("result-text");
+
 
 // Add click event to the Flip Coin button
 flipBtn.addEventListener("click", () => {
