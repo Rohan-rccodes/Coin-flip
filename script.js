@@ -20,6 +20,6 @@ flipBtn.addEventListener("click", () => {
     coin.style.transform = "rotateY(0deg)";
 
     // Update text
-    resultText.textContent = `Result: ${result}`;
+    resultText.textContent = `${result}`;
   }, 300);
 });
