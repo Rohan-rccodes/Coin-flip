@@ -1,6 +1,6 @@
 # 🎯 DevChallenges.io - Flip The Coin
 
-![Screenshot](./images/preview.jpg) <!-- Replace with actual screenshot filename in your /images folder -->
+![Screenshot](./images/preview.png) <!-- Replace with actual screenshot filename in your /images folder -->
 
 ## 👋 Welcome!
 
@@ -50,7 +50,7 @@ A simple coin-flipping game where users can:
 
 | Coin Flipping | Heads | Tails |
 |---------------|-------|-------|
-| ![Main UI](./images/preview.jpg) | ![Heads](./images/heads.svg) | ![Tails](./images/tails.svg) |
+| ![Main UI](./images/preview.png) | ![Heads](./images/heads.svg) | ![Tails](./images/tails.svg) |
 
 ---
 
